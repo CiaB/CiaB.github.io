@@ -1,2 +1,2 @@
-# CiaB.github.io
+# Siyasanga Baduza
 This is my online portfolio.
